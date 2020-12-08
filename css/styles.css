@@ -28,6 +28,9 @@ hr{
   border-bottom: none;
   width: 4%;
 }
+a{
+  margin: 10px;
+}
 .Geek{
   color: #66BFBF;
   font-family: 'Zilla Slab', serif;
